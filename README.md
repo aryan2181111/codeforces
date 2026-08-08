@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 4 | 5 |
+| 5 | 5 |
 
 ---
 
@@ -15,7 +15,7 @@
 - [*special](#special) (1)
 - [brute force](#brute-force) (2)
 - [greedy](#greedy) (2)
-- [implementation](#implementation) (1)
+- [implementation](#implementation) (2)
 - [math](#math) (2)
 
 ---
@@ -45,6 +45,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [Java 21](https://github.com/aryan2181111/codeforces/blob/HEAD/158/A%20-%20Next%20Round/solution.java) |
+| 282A | [Bit++](https://codeforces.com/contest/282/problem/A) | 800 | [Java 21](https://github.com/aryan2181111/codeforces/blob/HEAD/282/A%20-%20Bit%2B%2B/solution.java) |
 
 ### math
 
