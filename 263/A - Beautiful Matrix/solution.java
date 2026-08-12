@@ -5,7 +5,8 @@ public class Main {
  
         Scanner sc = new Scanner(System.in);
  
-        int row = 0, col = 0;
+        int row = 0;
+        int col = 0;
  
         for (int i = 1; i <= 5; i++) {
             for (int j = 1; j <= 5; j++) {
