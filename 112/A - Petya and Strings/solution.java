@@ -12,9 +12,11 @@ public class Main {
  
         if (result < 0) {
             System.out.println(-1);
-        } else if (result > 0) {
+        } 
+        else if (result > 0) {
             System.out.println(1);
-        } else {
+        } 
+        else {
             System.out.println(0);
         }
  
