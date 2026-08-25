@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 22 | 9 |
+| 23 | 9 |
 
 ---
 
@@ -16,7 +16,7 @@
 - [brute force](#brute-force) (4)
 - [dp](#dp) (1)
 - [geometry](#geometry) (1)
-- [greedy](#greedy) (6)
+- [greedy](#greedy) (7)
 - [implementation](#implementation) (15)
 - [math](#math) (5)
 - [sortings](#sortings) (3)
@@ -58,6 +58,7 @@
 | 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [Java 21](https://github.com/aryan2181111/codeforces/blob/HEAD/50/A%20-%20Domino%20piling/solution.java) |
 | 160A | [Twins](https://codeforces.com/contest/160/problem/A) | 900 | [Java 21](https://github.com/aryan2181111/codeforces/blob/HEAD/160/A%20-%20Twins/solution.java) |
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [Java 21](https://github.com/aryan2181111/codeforces/blob/HEAD/231/A%20-%20Team/solution.java) |
+| 337A | [Puzzles](https://codeforces.com/contest/337/problem/A) | 900 | [Java 21](https://github.com/aryan2181111/codeforces/blob/HEAD/337/A%20-%20Puzzles/solution.java) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 21](https://github.com/aryan2181111/codeforces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
 | 405A | [Gravity Flip](https://codeforces.com/contest/405/problem/A) | 900 | [Java 21](https://github.com/aryan2181111/codeforces/blob/HEAD/405/A%20-%20Gravity%20Flip/solution.java) |
 | 1806A | [Walking Master](https://codeforces.com/contest/1806/problem/A) | 800 | [Java 21](https://github.com/aryan2181111/codeforces/blob/HEAD/1806/A%20-%20Walking%20Master/solution.java) |
