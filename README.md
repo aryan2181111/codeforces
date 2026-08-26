@@ -6,14 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 27 | 9 |
+| 28 | 9 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (1)
-- [brute force](#brute-force) (4)
+- [brute force](#brute-force) (5)
 - [dp](#dp) (1)
 - [geometry](#geometry) (1)
 - [greedy](#greedy) (9)
@@ -37,6 +37,7 @@
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [Java 21](https://github.com/aryan2181111/codeforces/blob/HEAD/4/A%20-%20Watermelon/solution.java) |
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [Java 21](https://github.com/aryan2181111/codeforces/blob/HEAD/231/A%20-%20Team/solution.java) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Java 21](https://github.com/aryan2181111/codeforces/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.java) |
+| 271A | [Beautiful Year](https://codeforces.com/contest/271/problem/A) | 800 | [Java 21](https://github.com/aryan2181111/codeforces/blob/HEAD/271/A%20-%20Beautiful%20Year/solution.java) |
 | 580A | [Kefa and First Steps](https://codeforces.com/contest/580/problem/A) | 900 | [Java 21](https://github.com/aryan2181111/codeforces/blob/HEAD/580/A%20-%20Kefa%20and%20First%20Steps/solution.java) |
 
 ### dp
