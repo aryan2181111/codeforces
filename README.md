@@ -6,25 +6,25 @@
 
 | Total Problems | Topics |
 |---|---|
-| 37 | 13 |
+| 38 | 13 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (1)
-- [binary search](#binary-search) (2)
-- [brute force](#brute-force) (5)
+- [binary search](#binary-search) (3)
+- [brute force](#brute-force) (6)
 - [constructive algorithms](#constructive-algorithms) (1)
 - [dp](#dp) (3)
 - [geometry](#geometry) (1)
 - [greedy](#greedy) (10)
-- [implementation](#implementation) (21)
+- [implementation](#implementation) (22)
 - [math](#math) (7)
 - [number theory](#number-theory) (2)
 - [sortings](#sortings) (5)
 - [strings](#strings) (9)
-- [two pointers](#two-pointers) (1)
+- [two pointers](#two-pointers) (2)
 
 ---
 
@@ -38,6 +38,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 279B | [Books](https://codeforces.com/contest/279/problem/B) | 1400 | [Java 21](https://github.com/aryan2181111/codeforces/blob/HEAD/279/B%20-%20Books/solution.java) |
 | 580B | [Kefa and Company](https://codeforces.com/contest/580/problem/B) | 1500 | [Java 21](https://github.com/aryan2181111/codeforces/blob/HEAD/580/B%20-%20Kefa%20and%20Company/solution.java) |
 | 706B | [Interesting drink](https://codeforces.com/contest/706/problem/B) | 1100 | [Java 21](https://github.com/aryan2181111/codeforces/blob/HEAD/706/B%20-%20Interesting%20drink/solution.java) |
 
@@ -49,6 +50,7 @@
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [Java 21](https://github.com/aryan2181111/codeforces/blob/HEAD/231/A%20-%20Team/solution.java) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Java 21](https://github.com/aryan2181111/codeforces/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.java) |
 | 271A | [Beautiful Year](https://codeforces.com/contest/271/problem/A) | 800 | [Java 21](https://github.com/aryan2181111/codeforces/blob/HEAD/271/A%20-%20Beautiful%20Year/solution.java) |
+| 279B | [Books](https://codeforces.com/contest/279/problem/B) | 1400 | [Java 21](https://github.com/aryan2181111/codeforces/blob/HEAD/279/B%20-%20Books/solution.java) |
 | 580A | [Kefa and First Steps](https://codeforces.com/contest/580/problem/A) | 900 | [Java 21](https://github.com/aryan2181111/codeforces/blob/HEAD/580/A%20-%20Kefa%20and%20First%20Steps/solution.java) |
 
 ### constructive algorithms
@@ -100,6 +102,7 @@
 | 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [Java 21](https://github.com/aryan2181111/codeforces/blob/HEAD/158/A%20-%20Next%20Round/solution.java) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Java 21](https://github.com/aryan2181111/codeforces/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.java) |
 | 263A | [Beautiful Matrix](https://codeforces.com/contest/263/problem/A) | 800 | [Java 21](https://github.com/aryan2181111/codeforces/blob/HEAD/263/A%20-%20Beautiful%20Matrix/solution.java) |
+| 279B | [Books](https://codeforces.com/contest/279/problem/B) | 1400 | [Java 21](https://github.com/aryan2181111/codeforces/blob/HEAD/279/B%20-%20Books/solution.java) |
 | 282A | [Bit++](https://codeforces.com/contest/282/problem/A) | 800 | [Java 21](https://github.com/aryan2181111/codeforces/blob/HEAD/282/A%20-%20Bit%2B%2B/solution.java) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 21](https://github.com/aryan2181111/codeforces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
 | 405A | [Gravity Flip](https://codeforces.com/contest/405/problem/A) | 900 | [Java 21](https://github.com/aryan2181111/codeforces/blob/HEAD/405/A%20-%20Gravity%20Flip/solution.java) |
@@ -159,6 +162,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 279B | [Books](https://codeforces.com/contest/279/problem/B) | 1400 | [Java 21](https://github.com/aryan2181111/codeforces/blob/HEAD/279/B%20-%20Books/solution.java) |
 | 580B | [Kefa and Company](https://codeforces.com/contest/580/problem/B) | 1500 | [Java 21](https://github.com/aryan2181111/codeforces/blob/HEAD/580/B%20-%20Kefa%20and%20Company/solution.java) |
 
 ---
