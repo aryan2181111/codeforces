@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 40 | 13 |
+| 41 | 13 |
 
 ---
 
@@ -22,7 +22,7 @@
 - [implementation](#implementation) (23)
 - [math](#math) (7)
 - [number theory](#number-theory) (2)
-- [sortings](#sortings) (5)
+- [sortings](#sortings) (6)
 - [strings](#strings) (9)
 - [two pointers](#two-pointers) (2)
 
@@ -147,6 +147,7 @@
 | 230A | [Dragons](https://codeforces.com/contest/230/problem/A) | 1000 | [Java 21](https://github.com/aryan2181111/codeforces/blob/HEAD/230/A%20-%20Dragons/solution.java) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 21](https://github.com/aryan2181111/codeforces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
 | 405A | [Gravity Flip](https://codeforces.com/contest/405/problem/A) | 900 | [Java 21](https://github.com/aryan2181111/codeforces/blob/HEAD/405/A%20-%20Gravity%20Flip/solution.java) |
+| 456A | [Laptops](https://codeforces.com/contest/456/problem/A) | 1100 | [Java 21](https://github.com/aryan2181111/codeforces/blob/HEAD/456/A%20-%20Laptops/solution.java) |
 | 580B | [Kefa and Company](https://codeforces.com/contest/580/problem/B) | 1500 | [Java 21](https://github.com/aryan2181111/codeforces/blob/HEAD/580/B%20-%20Kefa%20and%20Company/solution.java) |
 
 ### strings
