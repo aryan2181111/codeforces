@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 28 | 9 |
+| 29 | 10 |
 
 ---
 
@@ -14,10 +14,11 @@
 
 - [*special](#special) (1)
 - [brute force](#brute-force) (5)
+- [constructive algorithms](#constructive-algorithms) (1)
 - [dp](#dp) (1)
 - [geometry](#geometry) (1)
 - [greedy](#greedy) (9)
-- [implementation](#implementation) (16)
+- [implementation](#implementation) (17)
 - [math](#math) (5)
 - [sortings](#sortings) (4)
 - [strings](#strings) (9)
@@ -39,6 +40,12 @@
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Java 21](https://github.com/aryan2181111/codeforces/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.java) |
 | 271A | [Beautiful Year](https://codeforces.com/contest/271/problem/A) | 800 | [Java 21](https://github.com/aryan2181111/codeforces/blob/HEAD/271/A%20-%20Beautiful%20Year/solution.java) |
 | 580A | [Kefa and First Steps](https://codeforces.com/contest/580/problem/A) | 900 | [Java 21](https://github.com/aryan2181111/codeforces/blob/HEAD/580/A%20-%20Kefa%20and%20First%20Steps/solution.java) |
+
+### constructive algorithms
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 118B | [Present from Lena](https://codeforces.com/contest/118/problem/B) | 1000 | [Java 21](https://github.com/aryan2181111/codeforces/blob/HEAD/118/B%20-%20Present%20from%20Lena/solution.java) |
 
 ### dp
 
@@ -75,6 +82,7 @@
 | 96A | [Football](https://codeforces.com/contest/96/problem/A) | 900 | [Java 21](https://github.com/aryan2181111/codeforces/blob/HEAD/96/A%20-%20Football/solution.java) |
 | 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [Java 21](https://github.com/aryan2181111/codeforces/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.java) |
 | 116A | [Tram](https://codeforces.com/contest/116/problem/A) | 800 | [Java 21](https://github.com/aryan2181111/codeforces/blob/HEAD/116/A%20-%20Tram/solution.java) |
+| 118B | [Present from Lena](https://codeforces.com/contest/118/problem/B) | 1000 | [Java 21](https://github.com/aryan2181111/codeforces/blob/HEAD/118/B%20-%20Present%20from%20Lena/solution.java) |
 | 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [Java 21](https://github.com/aryan2181111/codeforces/blob/HEAD/158/A%20-%20Next%20Round/solution.java) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Java 21](https://github.com/aryan2181111/codeforces/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.java) |
 | 263A | [Beautiful Matrix](https://codeforces.com/contest/263/problem/A) | 800 | [Java 21](https://github.com/aryan2181111/codeforces/blob/HEAD/263/A%20-%20Beautiful%20Matrix/solution.java) |
