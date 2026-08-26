@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 32 | 11 |
+| 33 | 11 |
 
 ---
 
@@ -19,7 +19,7 @@
 - [dp](#dp) (2)
 - [geometry](#geometry) (1)
 - [greedy](#greedy) (9)
-- [implementation](#implementation) (19)
+- [implementation](#implementation) (20)
 - [math](#math) (6)
 - [sortings](#sortings) (4)
 - [strings](#strings) (9)
@@ -88,6 +88,7 @@
 | 41A | [Translation](https://codeforces.com/contest/41/problem/A) | 800 | [Java 21](https://github.com/aryan2181111/codeforces/blob/HEAD/41/A%20-%20Translation/solution.java) |
 | 59A | [Word](https://codeforces.com/contest/59/problem/A) | 800 | [Java 21](https://github.com/aryan2181111/codeforces/blob/HEAD/59/A%20-%20Word/solution.java) |
 | 96A | [Football](https://codeforces.com/contest/96/problem/A) | 900 | [Java 21](https://github.com/aryan2181111/codeforces/blob/HEAD/96/A%20-%20Football/solution.java) |
+| 110A | [Nearly Lucky Number](https://codeforces.com/contest/110/problem/A) | 800 | [Java 21](https://github.com/aryan2181111/codeforces/blob/HEAD/110/A%20-%20Nearly%20Lucky%20Number/solution.java) |
 | 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [Java 21](https://github.com/aryan2181111/codeforces/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.java) |
 | 116A | [Tram](https://codeforces.com/contest/116/problem/A) | 800 | [Java 21](https://github.com/aryan2181111/codeforces/blob/HEAD/116/A%20-%20Tram/solution.java) |
 | 118B | [Present from Lena](https://codeforces.com/contest/118/problem/B) | 1000 | [Java 21](https://github.com/aryan2181111/codeforces/blob/HEAD/118/B%20-%20Present%20from%20Lena/solution.java) |
