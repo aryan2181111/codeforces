@@ -6,19 +6,20 @@
 
 | Total Problems | Topics |
 |---|---|
-| 29 | 10 |
+| 30 | 11 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (1)
+- [binary search](#binary-search) (1)
 - [brute force](#brute-force) (5)
 - [constructive algorithms](#constructive-algorithms) (1)
-- [dp](#dp) (1)
+- [dp](#dp) (2)
 - [geometry](#geometry) (1)
 - [greedy](#greedy) (9)
-- [implementation](#implementation) (17)
+- [implementation](#implementation) (18)
 - [math](#math) (5)
 - [sortings](#sortings) (4)
 - [strings](#strings) (9)
@@ -30,6 +31,12 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [Java 21](https://github.com/aryan2181111/codeforces/blob/HEAD/158/A%20-%20Next%20Round/solution.java) |
+
+### binary search
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 706B | [Interesting drink](https://codeforces.com/contest/706/problem/B) | 1100 | [Java 21](https://github.com/aryan2181111/codeforces/blob/HEAD/706/B%20-%20Interesting%20drink/solution.java) |
 
 ### brute force
 
@@ -52,6 +59,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 580A | [Kefa and First Steps](https://codeforces.com/contest/580/problem/A) | 900 | [Java 21](https://github.com/aryan2181111/codeforces/blob/HEAD/580/A%20-%20Kefa%20and%20First%20Steps/solution.java) |
+| 706B | [Interesting drink](https://codeforces.com/contest/706/problem/B) | 1100 | [Java 21](https://github.com/aryan2181111/codeforces/blob/HEAD/706/B%20-%20Interesting%20drink/solution.java) |
 
 ### geometry
 
@@ -92,6 +100,7 @@
 | 474A | [Keyboard](https://codeforces.com/contest/474/problem/A) | 900 | [Java 21](https://github.com/aryan2181111/codeforces/blob/HEAD/474/A%20-%20Keyboard/solution.java) |
 | 520A | [Pangram](https://codeforces.com/contest/520/problem/A) | 800 | [Java 21](https://github.com/aryan2181111/codeforces/blob/HEAD/520/A%20-%20Pangram/solution.java) |
 | 580A | [Kefa and First Steps](https://codeforces.com/contest/580/problem/A) | 900 | [Java 21](https://github.com/aryan2181111/codeforces/blob/HEAD/580/A%20-%20Kefa%20and%20First%20Steps/solution.java) |
+| 706B | [Interesting drink](https://codeforces.com/contest/706/problem/B) | 1100 | [Java 21](https://github.com/aryan2181111/codeforces/blob/HEAD/706/B%20-%20Interesting%20drink/solution.java) |
 | 791A | [Bear and Big Brother](https://codeforces.com/contest/791/problem/A) | 800 | [Java 21](https://github.com/aryan2181111/codeforces/blob/HEAD/791/A%20-%20Bear%20and%20Big%20Brother/solution.java) |
 | 977A | [Wrong Subtraction](https://codeforces.com/contest/977/problem/A) | 800 | [Java 21](https://github.com/aryan2181111/codeforces/blob/HEAD/977/A%20-%20Wrong%20Subtraction/solution.java) |
 
