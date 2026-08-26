@@ -6,20 +6,20 @@
 
 | Total Problems | Topics |
 |---|---|
-| 38 | 13 |
+| 39 | 13 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [*special](#special) (1)
+- [*special](#special) (2)
 - [binary search](#binary-search) (3)
 - [brute force](#brute-force) (6)
 - [constructive algorithms](#constructive-algorithms) (1)
 - [dp](#dp) (3)
 - [geometry](#geometry) (1)
-- [greedy](#greedy) (10)
-- [implementation](#implementation) (22)
+- [greedy](#greedy) (11)
+- [implementation](#implementation) (23)
 - [math](#math) (7)
 - [number theory](#number-theory) (2)
 - [sortings](#sortings) (5)
@@ -33,6 +33,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [Java 21](https://github.com/aryan2181111/codeforces/blob/HEAD/158/A%20-%20Next%20Round/solution.java) |
+| 158B | [Taxi](https://codeforces.com/contest/158/problem/B) | 1100 | [Java 21](https://github.com/aryan2181111/codeforces/blob/HEAD/158/B%20-%20Taxi/solution.java) |
 
 ### binary search
 
@@ -79,6 +80,7 @@
 |---|---------|------------|----------|
 | 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [Java 21](https://github.com/aryan2181111/codeforces/blob/HEAD/50/A%20-%20Domino%20piling/solution.java) |
 | 58A | [Chat room](https://codeforces.com/contest/58/problem/A) | 1000 | [Java 21](https://github.com/aryan2181111/codeforces/blob/HEAD/58/A%20-%20Chat%20room/solution.java) |
+| 158B | [Taxi](https://codeforces.com/contest/158/problem/B) | 1100 | [Java 21](https://github.com/aryan2181111/codeforces/blob/HEAD/158/B%20-%20Taxi/solution.java) |
 | 160A | [Twins](https://codeforces.com/contest/160/problem/A) | 900 | [Java 21](https://github.com/aryan2181111/codeforces/blob/HEAD/160/A%20-%20Twins/solution.java) |
 | 230A | [Dragons](https://codeforces.com/contest/230/problem/A) | 1000 | [Java 21](https://github.com/aryan2181111/codeforces/blob/HEAD/230/A%20-%20Dragons/solution.java) |
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [Java 21](https://github.com/aryan2181111/codeforces/blob/HEAD/231/A%20-%20Team/solution.java) |
@@ -100,6 +102,7 @@
 | 116A | [Tram](https://codeforces.com/contest/116/problem/A) | 800 | [Java 21](https://github.com/aryan2181111/codeforces/blob/HEAD/116/A%20-%20Tram/solution.java) |
 | 118B | [Present from Lena](https://codeforces.com/contest/118/problem/B) | 1000 | [Java 21](https://github.com/aryan2181111/codeforces/blob/HEAD/118/B%20-%20Present%20from%20Lena/solution.java) |
 | 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [Java 21](https://github.com/aryan2181111/codeforces/blob/HEAD/158/A%20-%20Next%20Round/solution.java) |
+| 158B | [Taxi](https://codeforces.com/contest/158/problem/B) | 1100 | [Java 21](https://github.com/aryan2181111/codeforces/blob/HEAD/158/B%20-%20Taxi/solution.java) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Java 21](https://github.com/aryan2181111/codeforces/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.java) |
 | 263A | [Beautiful Matrix](https://codeforces.com/contest/263/problem/A) | 800 | [Java 21](https://github.com/aryan2181111/codeforces/blob/HEAD/263/A%20-%20Beautiful%20Matrix/solution.java) |
 | 279B | [Books](https://codeforces.com/contest/279/problem/B) | 1400 | [Java 21](https://github.com/aryan2181111/codeforces/blob/HEAD/279/B%20-%20Books/solution.java) |
