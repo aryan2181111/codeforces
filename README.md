@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 34 | 11 |
+| 35 | 12 |
 
 ---
 
@@ -20,7 +20,8 @@
 - [geometry](#geometry) (1)
 - [greedy](#greedy) (10)
 - [implementation](#implementation) (20)
-- [math](#math) (6)
+- [math](#math) (7)
+- [number theory](#number-theory) (1)
 - [sortings](#sortings) (4)
 - [strings](#strings) (9)
 
@@ -117,7 +118,14 @@
 | 318A | [Even Odds](https://codeforces.com/contest/318/problem/A) | 900 | [Java 21](https://github.com/aryan2181111/codeforces/blob/HEAD/318/A%20-%20Even%20Odds/solution.java) |
 | 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | [Java 21](https://github.com/aryan2181111/codeforces/blob/HEAD/617/A%20-%20Elephant/solution.java) |
 | 1154B | [Make Them Equal](https://codeforces.com/contest/1154/problem/B) | 1200 | [Java 21](https://github.com/aryan2181111/codeforces/blob/HEAD/1154/B%20-%20Make%20Them%20Equal/solution.java) |
+| 1475A | [Odd Divisor](https://codeforces.com/contest/1475/problem/A) | 900 | [Java 21](https://github.com/aryan2181111/codeforces/blob/HEAD/1475/A%20-%20Odd%20Divisor/solution.java) |
 | 1806A | [Walking Master](https://codeforces.com/contest/1806/problem/A) | 800 | [Java 21](https://github.com/aryan2181111/codeforces/blob/HEAD/1806/A%20-%20Walking%20Master/solution.java) |
+
+### number theory
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1475A | [Odd Divisor](https://codeforces.com/contest/1475/problem/A) | 900 | [Java 21](https://github.com/aryan2181111/codeforces/blob/HEAD/1475/A%20-%20Odd%20Divisor/solution.java) |
 
 ### sortings
 
