@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 31 | 11 |
+| 32 | 11 |
 
 ---
 
@@ -19,7 +19,7 @@
 - [dp](#dp) (2)
 - [geometry](#geometry) (1)
 - [greedy](#greedy) (9)
-- [implementation](#implementation) (18)
+- [implementation](#implementation) (19)
 - [math](#math) (6)
 - [sortings](#sortings) (4)
 - [strings](#strings) (9)
@@ -97,6 +97,7 @@
 | 282A | [Bit++](https://codeforces.com/contest/282/problem/A) | 800 | [Java 21](https://github.com/aryan2181111/codeforces/blob/HEAD/282/A%20-%20Bit%2B%2B/solution.java) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 21](https://github.com/aryan2181111/codeforces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
 | 405A | [Gravity Flip](https://codeforces.com/contest/405/problem/A) | 900 | [Java 21](https://github.com/aryan2181111/codeforces/blob/HEAD/405/A%20-%20Gravity%20Flip/solution.java) |
+| 451A | [Game With Sticks](https://codeforces.com/contest/451/problem/A) | 900 | [Java 21](https://github.com/aryan2181111/codeforces/blob/HEAD/451/A%20-%20Game%20With%20Sticks/solution.java) |
 | 474A | [Keyboard](https://codeforces.com/contest/474/problem/A) | 900 | [Java 21](https://github.com/aryan2181111/codeforces/blob/HEAD/474/A%20-%20Keyboard/solution.java) |
 | 520A | [Pangram](https://codeforces.com/contest/520/problem/A) | 800 | [Java 21](https://github.com/aryan2181111/codeforces/blob/HEAD/520/A%20-%20Pangram/solution.java) |
 | 580A | [Kefa and First Steps](https://codeforces.com/contest/580/problem/A) | 900 | [Java 21](https://github.com/aryan2181111/codeforces/blob/HEAD/580/A%20-%20Kefa%20and%20First%20Steps/solution.java) |
