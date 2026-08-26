@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 33 | 11 |
+| 34 | 11 |
 
 ---
 
@@ -16,9 +16,9 @@
 - [binary search](#binary-search) (1)
 - [brute force](#brute-force) (5)
 - [constructive algorithms](#constructive-algorithms) (1)
-- [dp](#dp) (2)
+- [dp](#dp) (3)
 - [geometry](#geometry) (1)
-- [greedy](#greedy) (9)
+- [greedy](#greedy) (10)
 - [implementation](#implementation) (20)
 - [math](#math) (6)
 - [sortings](#sortings) (4)
@@ -60,6 +60,7 @@
 |---|---------|------------|----------|
 | 580A | [Kefa and First Steps](https://codeforces.com/contest/580/problem/A) | 900 | [Java 21](https://github.com/aryan2181111/codeforces/blob/HEAD/580/A%20-%20Kefa%20and%20First%20Steps/solution.java) |
 | 706B | [Interesting drink](https://codeforces.com/contest/706/problem/B) | 1100 | [Java 21](https://github.com/aryan2181111/codeforces/blob/HEAD/706/B%20-%20Interesting%20drink/solution.java) |
+| 996A | [Hit the Lottery](https://codeforces.com/contest/996/problem/A) | 800 | [Java 21](https://github.com/aryan2181111/codeforces/blob/HEAD/996/A%20-%20Hit%20the%20Lottery/solution.java) |
 
 ### geometry
 
@@ -79,6 +80,7 @@
 | 337A | [Puzzles](https://codeforces.com/contest/337/problem/A) | 900 | [Java 21](https://github.com/aryan2181111/codeforces/blob/HEAD/337/A%20-%20Puzzles/solution.java) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 21](https://github.com/aryan2181111/codeforces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
 | 405A | [Gravity Flip](https://codeforces.com/contest/405/problem/A) | 900 | [Java 21](https://github.com/aryan2181111/codeforces/blob/HEAD/405/A%20-%20Gravity%20Flip/solution.java) |
+| 996A | [Hit the Lottery](https://codeforces.com/contest/996/problem/A) | 800 | [Java 21](https://github.com/aryan2181111/codeforces/blob/HEAD/996/A%20-%20Hit%20the%20Lottery/solution.java) |
 | 1806A | [Walking Master](https://codeforces.com/contest/1806/problem/A) | 800 | [Java 21](https://github.com/aryan2181111/codeforces/blob/HEAD/1806/A%20-%20Walking%20Master/solution.java) |
 
 ### implementation
