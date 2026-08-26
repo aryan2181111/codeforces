@@ -6,14 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 35 | 12 |
+| 36 | 13 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (1)
-- [binary search](#binary-search) (1)
+- [binary search](#binary-search) (2)
 - [brute force](#brute-force) (5)
 - [constructive algorithms](#constructive-algorithms) (1)
 - [dp](#dp) (3)
@@ -22,8 +22,9 @@
 - [implementation](#implementation) (20)
 - [math](#math) (7)
 - [number theory](#number-theory) (1)
-- [sortings](#sortings) (4)
+- [sortings](#sortings) (5)
 - [strings](#strings) (9)
+- [two pointers](#two-pointers) (1)
 
 ---
 
@@ -37,6 +38,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 580B | [Kefa and Company](https://codeforces.com/contest/580/problem/B) | 1500 | [Java 21](https://github.com/aryan2181111/codeforces/blob/HEAD/580/B%20-%20Kefa%20and%20Company/solution.java) |
 | 706B | [Interesting drink](https://codeforces.com/contest/706/problem/B) | 1100 | [Java 21](https://github.com/aryan2181111/codeforces/blob/HEAD/706/B%20-%20Interesting%20drink/solution.java) |
 
 ### brute force
@@ -135,6 +137,7 @@
 | 230A | [Dragons](https://codeforces.com/contest/230/problem/A) | 1000 | [Java 21](https://github.com/aryan2181111/codeforces/blob/HEAD/230/A%20-%20Dragons/solution.java) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 21](https://github.com/aryan2181111/codeforces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
 | 405A | [Gravity Flip](https://codeforces.com/contest/405/problem/A) | 900 | [Java 21](https://github.com/aryan2181111/codeforces/blob/HEAD/405/A%20-%20Gravity%20Flip/solution.java) |
+| 580B | [Kefa and Company](https://codeforces.com/contest/580/problem/B) | 1500 | [Java 21](https://github.com/aryan2181111/codeforces/blob/HEAD/580/B%20-%20Kefa%20and%20Company/solution.java) |
 
 ### strings
 
@@ -149,6 +152,12 @@
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Java 21](https://github.com/aryan2181111/codeforces/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.java) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 21](https://github.com/aryan2181111/codeforces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
 | 520A | [Pangram](https://codeforces.com/contest/520/problem/A) | 800 | [Java 21](https://github.com/aryan2181111/codeforces/blob/HEAD/520/A%20-%20Pangram/solution.java) |
+
+### two pointers
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 580B | [Kefa and Company](https://codeforces.com/contest/580/problem/B) | 1500 | [Java 21](https://github.com/aryan2181111/codeforces/blob/HEAD/580/B%20-%20Kefa%20and%20Company/solution.java) |
 
 ---
 
