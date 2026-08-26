@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 30 | 11 |
+| 31 | 11 |
 
 ---
 
@@ -20,7 +20,7 @@
 - [geometry](#geometry) (1)
 - [greedy](#greedy) (9)
 - [implementation](#implementation) (18)
-- [math](#math) (5)
+- [math](#math) (6)
 - [sortings](#sortings) (4)
 - [strings](#strings) (9)
 
@@ -112,6 +112,7 @@
 | 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [Java 21](https://github.com/aryan2181111/codeforces/blob/HEAD/50/A%20-%20Domino%20piling/solution.java) |
 | 318A | [Even Odds](https://codeforces.com/contest/318/problem/A) | 900 | [Java 21](https://github.com/aryan2181111/codeforces/blob/HEAD/318/A%20-%20Even%20Odds/solution.java) |
 | 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | [Java 21](https://github.com/aryan2181111/codeforces/blob/HEAD/617/A%20-%20Elephant/solution.java) |
+| 1154B | [Make Them Equal](https://codeforces.com/contest/1154/problem/B) | 1200 | [Java 21](https://github.com/aryan2181111/codeforces/blob/HEAD/1154/B%20-%20Make%20Them%20Equal/solution.java) |
 | 1806A | [Walking Master](https://codeforces.com/contest/1806/problem/A) | 800 | [Java 21](https://github.com/aryan2181111/codeforces/blob/HEAD/1806/A%20-%20Walking%20Master/solution.java) |
 
 ### sortings
