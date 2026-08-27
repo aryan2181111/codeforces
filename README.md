@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 41 | 13 |
+| 42 | 13 |
 
 ---
 
@@ -15,11 +15,11 @@
 - [*special](#special) (2)
 - [binary search](#binary-search) (3)
 - [brute force](#brute-force) (7)
-- [constructive algorithms](#constructive-algorithms) (1)
+- [constructive algorithms](#constructive-algorithms) (2)
 - [dp](#dp) (4)
 - [geometry](#geometry) (1)
 - [greedy](#greedy) (11)
-- [implementation](#implementation) (23)
+- [implementation](#implementation) (24)
 - [math](#math) (7)
 - [number theory](#number-theory) (2)
 - [sortings](#sortings) (6)
@@ -60,6 +60,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 118B | [Present from Lena](https://codeforces.com/contest/118/problem/B) | 1000 | [Java 21](https://github.com/aryan2181111/codeforces/blob/HEAD/118/B%20-%20Present%20from%20Lena/solution.java) |
+| 686A | [Free Ice Cream](https://codeforces.com/contest/686/problem/A) | 800 | [Java 21](https://github.com/aryan2181111/codeforces/blob/HEAD/686/A%20-%20Free%20Ice%20Cream/solution.java) |
 
 ### dp
 
@@ -115,6 +116,7 @@
 | 474A | [Keyboard](https://codeforces.com/contest/474/problem/A) | 900 | [Java 21](https://github.com/aryan2181111/codeforces/blob/HEAD/474/A%20-%20Keyboard/solution.java) |
 | 520A | [Pangram](https://codeforces.com/contest/520/problem/A) | 800 | [Java 21](https://github.com/aryan2181111/codeforces/blob/HEAD/520/A%20-%20Pangram/solution.java) |
 | 580A | [Kefa and First Steps](https://codeforces.com/contest/580/problem/A) | 900 | [Java 21](https://github.com/aryan2181111/codeforces/blob/HEAD/580/A%20-%20Kefa%20and%20First%20Steps/solution.java) |
+| 686A | [Free Ice Cream](https://codeforces.com/contest/686/problem/A) | 800 | [Java 21](https://github.com/aryan2181111/codeforces/blob/HEAD/686/A%20-%20Free%20Ice%20Cream/solution.java) |
 | 706B | [Interesting drink](https://codeforces.com/contest/706/problem/B) | 1100 | [Java 21](https://github.com/aryan2181111/codeforces/blob/HEAD/706/B%20-%20Interesting%20drink/solution.java) |
 | 791A | [Bear and Big Brother](https://codeforces.com/contest/791/problem/A) | 800 | [Java 21](https://github.com/aryan2181111/codeforces/blob/HEAD/791/A%20-%20Bear%20and%20Big%20Brother/solution.java) |
 | 977A | [Wrong Subtraction](https://codeforces.com/contest/977/problem/A) | 800 | [Java 21](https://github.com/aryan2181111/codeforces/blob/HEAD/977/A%20-%20Wrong%20Subtraction/solution.java) |
