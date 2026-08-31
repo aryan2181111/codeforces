@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 42 | 13 |
+| 43 | 13 |
 
 ---
 
@@ -14,13 +14,13 @@
 
 - [*special](#special) (2)
 - [binary search](#binary-search) (3)
-- [brute force](#brute-force) (7)
+- [brute force](#brute-force) (8)
 - [constructive algorithms](#constructive-algorithms) (2)
 - [dp](#dp) (4)
 - [geometry](#geometry) (1)
 - [greedy](#greedy) (11)
 - [implementation](#implementation) (24)
-- [math](#math) (7)
+- [math](#math) (8)
 - [number theory](#number-theory) (2)
 - [sortings](#sortings) (6)
 - [strings](#strings) (9)
@@ -53,6 +53,7 @@
 | 271A | [Beautiful Year](https://codeforces.com/contest/271/problem/A) | 800 | [Java 21](https://github.com/aryan2181111/codeforces/blob/HEAD/271/A%20-%20Beautiful%20Year/solution.java) |
 | 279B | [Books](https://codeforces.com/contest/279/problem/B) | 1400 | [Java 21](https://github.com/aryan2181111/codeforces/blob/HEAD/279/B%20-%20Books/solution.java) |
 | 363B | [Fence](https://codeforces.com/contest/363/problem/B) | 1100 | [Java 21](https://github.com/aryan2181111/codeforces/blob/HEAD/363/B%20-%20Fence/solution.java) |
+| 479A | [Expression](https://codeforces.com/contest/479/problem/A) | 1000 | [Java 21](https://github.com/aryan2181111/codeforces/blob/HEAD/479/A%20-%20Expression/solution.java) |
 | 580A | [Kefa and First Steps](https://codeforces.com/contest/580/problem/A) | 900 | [Java 21](https://github.com/aryan2181111/codeforces/blob/HEAD/580/A%20-%20Kefa%20and%20First%20Steps/solution.java) |
 
 ### constructive algorithms
@@ -129,6 +130,7 @@
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [Java 21](https://github.com/aryan2181111/codeforces/blob/HEAD/4/A%20-%20Watermelon/solution.java) |
 | 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [Java 21](https://github.com/aryan2181111/codeforces/blob/HEAD/50/A%20-%20Domino%20piling/solution.java) |
 | 318A | [Even Odds](https://codeforces.com/contest/318/problem/A) | 900 | [Java 21](https://github.com/aryan2181111/codeforces/blob/HEAD/318/A%20-%20Even%20Odds/solution.java) |
+| 479A | [Expression](https://codeforces.com/contest/479/problem/A) | 1000 | [Java 21](https://github.com/aryan2181111/codeforces/blob/HEAD/479/A%20-%20Expression/solution.java) |
 | 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | [Java 21](https://github.com/aryan2181111/codeforces/blob/HEAD/617/A%20-%20Elephant/solution.java) |
 | 1154B | [Make Them Equal](https://codeforces.com/contest/1154/problem/B) | 1200 | [Java 21](https://github.com/aryan2181111/codeforces/blob/HEAD/1154/B%20-%20Make%20Them%20Equal/solution.java) |
 | 1475A | [Odd Divisor](https://codeforces.com/contest/1475/problem/A) | 900 | [Java 21](https://github.com/aryan2181111/codeforces/blob/HEAD/1475/A%20-%20Odd%20Divisor/solution.java) |
