@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 44 | 13 |
+| 45 | 13 |
 
 ---
 
@@ -19,11 +19,11 @@
 - [dp](#dp) (4)
 - [geometry](#geometry) (1)
 - [greedy](#greedy) (11)
-- [implementation](#implementation) (24)
+- [implementation](#implementation) (25)
 - [math](#math) (9)
 - [number theory](#number-theory) (2)
 - [sortings](#sortings) (6)
-- [strings](#strings) (9)
+- [strings](#strings) (10)
 - [two pointers](#two-pointers) (2)
 
 ---
@@ -120,6 +120,7 @@
 | 580A | [Kefa and First Steps](https://codeforces.com/contest/580/problem/A) | 900 | [Java 21](https://github.com/aryan2181111/codeforces/blob/HEAD/580/A%20-%20Kefa%20and%20First%20Steps/solution.java) |
 | 686A | [Free Ice Cream](https://codeforces.com/contest/686/problem/A) | 800 | [Java 21](https://github.com/aryan2181111/codeforces/blob/HEAD/686/A%20-%20Free%20Ice%20Cream/solution.java) |
 | 706B | [Interesting drink](https://codeforces.com/contest/706/problem/B) | 1100 | [Java 21](https://github.com/aryan2181111/codeforces/blob/HEAD/706/B%20-%20Interesting%20drink/solution.java) |
+| 734A | [Anton and Danik](https://codeforces.com/contest/734/problem/A) | 800 | [Java 21](https://github.com/aryan2181111/codeforces/blob/HEAD/734/A%20-%20Anton%20and%20Danik/solution.java) |
 | 791A | [Bear and Big Brother](https://codeforces.com/contest/791/problem/A) | 800 | [Java 21](https://github.com/aryan2181111/codeforces/blob/HEAD/791/A%20-%20Bear%20and%20Big%20Brother/solution.java) |
 | 977A | [Wrong Subtraction](https://codeforces.com/contest/977/problem/A) | 800 | [Java 21](https://github.com/aryan2181111/codeforces/blob/HEAD/977/A%20-%20Wrong%20Subtraction/solution.java) |
 | 1324A | [Yet Another Tetris Problem](https://codeforces.com/contest/1324/problem/A) | 900 | [Java 21](https://github.com/aryan2181111/codeforces/blob/HEAD/1324/A%20-%20Yet%20Another%20Tetris%20Problem/solution.java) |
@@ -169,6 +170,7 @@
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Java 21](https://github.com/aryan2181111/codeforces/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.java) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 21](https://github.com/aryan2181111/codeforces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
 | 520A | [Pangram](https://codeforces.com/contest/520/problem/A) | 800 | [Java 21](https://github.com/aryan2181111/codeforces/blob/HEAD/520/A%20-%20Pangram/solution.java) |
+| 734A | [Anton and Danik](https://codeforces.com/contest/734/problem/A) | 800 | [Java 21](https://github.com/aryan2181111/codeforces/blob/HEAD/734/A%20-%20Anton%20and%20Danik/solution.java) |
 
 ### two pointers
 
